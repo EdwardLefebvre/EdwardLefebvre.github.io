@@ -1,0 +1,65 @@
+body { background: AliceBLue;
+	   color: black;
+	   font-family: Helvetica;
+	  }
+	  
+h1   { color: black;
+	   font-size: 32pt;
+	   font-family: Helvetica;
+	   font-weight: bold;
+	 }
+	 
+	 
+c  { color: black;
+	   font-size:24pt;
+	   font-family: Helvetica;
+	 }
+	   
+p1 	{ color: black;
+	   font-size:24pt;
+	   font-family: Helvetica;
+	   margin:180pt;
+	}
+
+	  
+b   { color:blue;
+	  font-size:12pt;
+      text-decoration: none;
+      font-family: Helvetica;
+    }
+
+b:hover {color: purple;
+        background: white}
+        
+nav li {display: inline-block;
+        border: 2px solid black; 
+        background: white;
+        padding: 5px;
+        margin:5px
+        
+        }
+        
+a  {  color: black;
+	  font-size:18pt;
+	  font-family: Helvetica;
+	  margin:25pt;
+	}
+	
+a:hover {color:red
+
+         }
+         
+
+d li	{ display: inline-block;
+          padding: .5px;
+          margin: 10px;
+          text-decoration: none;
+        
+        
+		}
+	
+	
+
+	 
+	 
+	 

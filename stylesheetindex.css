@@ -1,0 +1,28 @@
+body { background: Beige;
+	   color: black;
+	   font-family: Helvetica;
+	  }
+	  
+h1   {	font-size:30pt;
+	    color: Gray;
+	    font-family: Helvetica;
+	    
+	 }
+	
+	  
+
+	   
+nav li {display: inline-block;
+        border: 2px solid black; 
+        background: beige;
+        padding: 15px;
+        margin:10px
+        
+        }
+        
+b	  { color:black;
+		font-family: Helvetica;
+		font-size:24pt;
+		font-style: none;
+	}
+		

@@ -1,0 +1,35 @@
+body    {background: slategray;
+		}
+		
+h1		{font-size:36pt;
+		 color:snow;
+		 font-family: Helvetica;
+		 }
+h2		{font-size:26pt;
+	     color:blue;
+	     font-family:Helvetica;
+	     }
+		 
+c	{ font-size:24pt;
+	  color:white;
+	  font-family: Helvetica;
+	  font-style: bold;
+	  text-decoration: bold;
+	  }
+	  
+d	{ font-size:18pt;
+	  font-family:Helvetica;
+	  color:black;
+	  text-decoration: underline;
+	  }
+	  
+f li	{ display: inline-block;
+          padding: .5px;
+          margin: 20px;
+          text-decoration: underline; 
+        
+        
+		}
+		
+a:hover {color: white;
+        }
